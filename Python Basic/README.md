@@ -1,7 +1,6 @@
 # Basics of Python
 
-
-```python- [Basics of Python](#basics-of-python)
+- [Basics of Python](#basics-of-python)
   - [Printing the First Program](#printing-the-first-program)
   - [Input Taking in Python](#input-taking-in-python)
   - [Data Type Conversion](#data-type-conversion)
@@ -14,6 +13,9 @@
     - [While Loop](#while-loop)
     - [For Loop](#for-loop)
   - [File-Operation in Python](#file-operation-in-python)
+
+
+```python
 """
 cd .\Python Basic\
 jupyter nbconvert --to markdown Python_Basics.ipynb --output README.md
